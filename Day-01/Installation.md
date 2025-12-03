@@ -18,3 +18,7 @@ https://www.geeksforgeeks.org/external-modules-in-python/
 > py
 >
 > > > quit()
+
+## Getting Started with Python in VS Code
+
+[](https://code.visualstudio.com/docs/python/python-tutorial#_install-a-python-interpreter)
