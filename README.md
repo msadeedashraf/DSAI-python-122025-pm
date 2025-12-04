@@ -6,6 +6,9 @@
 
 ![Hello World](/Assets/hello-world.png)
 
-## Modules
+## Modules 
+
+### pyjokes
+- [pyjokes] (https://pypi.org/project/pyjokes/)
 
 ![How to add a module](/Assets/module-example.png)
