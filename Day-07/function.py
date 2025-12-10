@@ -23,3 +23,6 @@ add(float(a), float(b))
 subtract(float(a), float(b))
 multiply(float(a), float(b))
 divide(float(a), float(b))
+
+
+# Create a function that receives three numbers and calculates the average of those numbers.
