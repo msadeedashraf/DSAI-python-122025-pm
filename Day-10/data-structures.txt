@@ -1,0 +1,29 @@
+https://www.w3schools.com/python/python_lists.asp
+
+🧠 Data Structures in Python (Beginner to Intermediate Guide)
+
+Data structures are ways to store, organize, and manage data efficiently.
+Python provides several built-in data structures that make programming easier.
+
+We will cover:
+
+List
+
+Tuple
+
+Set
+
+Dictionary
+
+String (as a sequence type)
+
+Advanced structures: Stack, Queue, Linked List (conceptual)
+
+
+Python Collections (Arrays)
+There are four collection data types in the Python programming language:
+
+List is a collection which is ordered and changeable. Allows duplicate members.
+Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.
+Dictionary is a collection which is ordered** and changeable. No duplicate members.
