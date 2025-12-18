@@ -12,3 +12,6 @@
 - [pyjokes] (https://pypi.org/project/pyjokes/)
 
 ![How to add a module](/Assets/module-example.png)
+
+## Python Dates
+[Dates](https://www.w3schools.com/python/python_datetime.asp)
