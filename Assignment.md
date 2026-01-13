@@ -12,3 +12,8 @@ Find out the types of modules and list some common modules any new python develo
 - p8. Saving Transaction history to a file (txt or csv). (Download Transactions)
 - p9. Daily withdrawal limit
 - p10. Bank fees (fixed or % based)
+
+### Final Submission
+
+- Pick any 5 python project to implement what we have learned in the class.
+

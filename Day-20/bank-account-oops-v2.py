@@ -4,6 +4,9 @@
 
 # create a bank account class with properties and methods to deposit, withdraw and check balance
 
+# Implementing additional features like automatic account number generation (IBAN), account creation date, and account activation status
+
+
 from datetime import datetime
 
 
